@@ -95,7 +95,11 @@ nav #projres {
     height: auto;
     border: 3px solid black;
 }
-
+#weatherappimg {
+    width: 1000px;
+    height: auto;
+    border: 3px solid black;
+}
 #contact {
     text-align: center;
     font-family: monospace;
